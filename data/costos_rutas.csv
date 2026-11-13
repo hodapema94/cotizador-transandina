@@ -1,0 +1,7 @@
+
+id_ruta,origen,destino,distancia_km,costo_km
+1,Medellin,Bogota,0,4800
+1,Medellin,Bogota,103.75,6100
+1,Medellin,Bogota,207.5,4500
+1,Medellin,Bogota,311.25,6400
+1,Medellin,Bogota,415,5000
